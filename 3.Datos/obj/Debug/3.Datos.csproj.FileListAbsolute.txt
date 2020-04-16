@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\roiben.gomeznion\source\repos\ProyectoLuckia_T8_Ej2CV2\3.Datos\bin\Debug\json\d_monedero.json
 C:\Users\roiben.gomeznion\source\repos\ProyectoLuckia_T8_Ej2CV2\3.Datos\bin\Debug\json\d_trans.json
 C:\Users\roiben.gomeznion\source\repos\ProyectoLuckia_T8_Ej2CV2\3.Datos\bin\Debug\json\d_usuario.json
@@ -10,3 +11,17 @@ C:\Users\roiben.gomeznion\source\repos\ProyectoLuckia_T8_Ej2CV2\3.Datos\obj\Debu
 C:\Users\roiben.gomeznion\source\repos\ProyectoLuckia_T8_Ej2CV2\3.Datos\obj\Debug\3.Datos.csproj.CopyComplete
 C:\Users\roiben.gomeznion\source\repos\ProyectoLuckia_T8_Ej2CV2\3.Datos\obj\Debug\3.Datos.dll
 C:\Users\roiben.gomeznion\source\repos\ProyectoLuckia_T8_Ej2CV2\3.Datos\obj\Debug\3.Datos.pdb
+=======
+C:\Users\david.crespopardo\source\gitRepos\april16\3.Datos\bin\Debug\json\d_monedero.json
+C:\Users\david.crespopardo\source\gitRepos\april16\3.Datos\bin\Debug\json\d_trans.json
+C:\Users\david.crespopardo\source\gitRepos\april16\3.Datos\bin\Debug\json\d_usuario.json
+C:\Users\david.crespopardo\source\gitRepos\april16\3.Datos\bin\Debug\3.Datos.dll
+C:\Users\david.crespopardo\source\gitRepos\april16\3.Datos\bin\Debug\3.Datos.pdb
+C:\Users\david.crespopardo\source\gitRepos\april16\3.Datos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\david.crespopardo\source\gitRepos\april16\3.Datos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\david.crespopardo\source\gitRepos\april16\3.Datos\obj\Debug\3.Datos.csprojAssemblyReference.cache
+C:\Users\david.crespopardo\source\gitRepos\april16\3.Datos\obj\Debug\3.Datos.csproj.CoreCompileInputs.cache
+C:\Users\david.crespopardo\source\gitRepos\april16\3.Datos\obj\Debug\3.Datos.csproj.CopyComplete
+C:\Users\david.crespopardo\source\gitRepos\april16\3.Datos\obj\Debug\3.Datos.dll
+C:\Users\david.crespopardo\source\gitRepos\april16\3.Datos\obj\Debug\3.Datos.pdb
+>>>>>>> 5e3964641a919403b731ef8e8a8dfd5be5b153ad

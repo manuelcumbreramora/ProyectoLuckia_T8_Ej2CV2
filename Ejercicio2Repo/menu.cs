@@ -19,23 +19,30 @@ namespace Ejercicio2Repo
             Console.WriteLine("2: Realizar depósito");
             Console.WriteLine("3: Consultar histórico de transacciones de un jugador");
             Console.WriteLine("4: Salir");
+<<<<<<< HEAD
             eleccionUsuario1 = Int32.Parse(Console.ReadLine());
+=======
+ 
+
+>>>>>>> 5e3964641a919403b731ef8e8a8dfd5be5b153ad
 
         }
 
         public void ejecucion()
         {
+            generarMenu1();
+            eleccionUsuario1 = Int32.Parse(Console.ReadLine());
             while (eleccionUsuario1 != 4) {
 
                 switch (eleccionUsuario1)
-                {
+                {                                        
                     case 1:
                         Console.WriteLine("Ha elegido registrar un nuevo usuario");
                         Console.WriteLine("Introduzca su nombre");
                         nombre = Console.ReadLine();
                         Console.WriteLine("Introduzca su password");
                         pass = Console.ReadLine();
-                        s.registroUsuario(nombre, pass);
+                        s.registroUsuario(nombre, pass);                        
                         break;
 
                     case 2:
@@ -57,6 +64,7 @@ namespace Ejercicio2Repo
                     default:
                         break;
                 }
+                ejecucion();
 
 
             }
