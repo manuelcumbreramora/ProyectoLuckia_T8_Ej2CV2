@@ -12,7 +12,7 @@ namespace _2.Negocio
         public string pass { get; set; }
         public string estadoCuenta { get; set; }
         public int idUsuario { get; set; }
-       // public Monedero monederoUsuario { get; set; }
+        public Monedero monederoUsuario { get; set; }
         public DateTime fechaCreacion { get; set; }
 
         public bool CrearUsuario(string login,string pass)
