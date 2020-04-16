@@ -1,0 +1,6 @@
+C:\Users\roiben.gomeznion\source\repos\ProyectoLuckia_T8_Ej2CV2\3.Datos\bin\Debug\3.Datos.dll
+C:\Users\roiben.gomeznion\source\repos\ProyectoLuckia_T8_Ej2CV2\3.Datos\bin\Debug\3.Datos.pdb
+C:\Users\roiben.gomeznion\source\repos\ProyectoLuckia_T8_Ej2CV2\3.Datos\obj\Debug\3.Datos.csprojAssemblyReference.cache
+C:\Users\roiben.gomeznion\source\repos\ProyectoLuckia_T8_Ej2CV2\3.Datos\obj\Debug\3.Datos.csproj.CoreCompileInputs.cache
+C:\Users\roiben.gomeznion\source\repos\ProyectoLuckia_T8_Ej2CV2\3.Datos\obj\Debug\3.Datos.dll
+C:\Users\roiben.gomeznion\source\repos\ProyectoLuckia_T8_Ej2CV2\3.Datos\obj\Debug\3.Datos.pdb
