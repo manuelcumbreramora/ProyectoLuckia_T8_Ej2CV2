@@ -18,7 +18,6 @@ namespace Ejercicio2Repo
         static void Main(string[] args)
         {
             Menu m = new Menu();
-            m.generarMenu1();
             m.ejecucion();
             Console.ReadLine();
 

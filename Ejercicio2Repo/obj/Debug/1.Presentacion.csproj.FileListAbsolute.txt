@@ -5,3 +5,17 @@ C:\Users\Alejandro\source\repos\ProyectoLuckia_T8_Ej2CV2\Ejercicio2Repo\obj\Debu
 C:\Users\Alejandro\source\repos\ProyectoLuckia_T8_Ej2CV2\Ejercicio2Repo\obj\Debug\1.Presentacion.csproj.CoreCompileInputs.cache
 C:\Users\Alejandro\source\repos\ProyectoLuckia_T8_Ej2CV2\Ejercicio2Repo\obj\Debug\Ejercicio2Repo.exe
 C:\Users\Alejandro\source\repos\ProyectoLuckia_T8_Ej2CV2\Ejercicio2Repo\obj\Debug\Ejercicio2Repo.pdb
+C:\Users\david.crespopardo\source\gitRepos\april16\Ejercicio2Repo\obj\Debug\1.Presentacion.csprojAssemblyReference.cache
+C:\Users\david.crespopardo\source\gitRepos\april16\Ejercicio2Repo\obj\Debug\1.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\david.crespopardo\source\gitRepos\april16\Ejercicio2Repo\obj\Debug\Ejercicio2Repo.exe
+C:\Users\david.crespopardo\source\gitRepos\april16\Ejercicio2Repo\obj\Debug\Ejercicio2Repo.pdb
+C:\Users\david.crespopardo\source\gitRepos\april16\Ejercicio2Repo\bin\Debug\Ejercicio2Repo.exe.config
+C:\Users\david.crespopardo\source\gitRepos\april16\Ejercicio2Repo\bin\Debug\Ejercicio2Repo.exe
+C:\Users\david.crespopardo\source\gitRepos\april16\Ejercicio2Repo\bin\Debug\Ejercicio2Repo.pdb
+C:\Users\david.crespopardo\source\gitRepos\april16\Ejercicio2Repo\bin\Debug\2.Negocio.dll
+C:\Users\david.crespopardo\source\gitRepos\april16\Ejercicio2Repo\bin\Debug\3.Datos.dll
+C:\Users\david.crespopardo\source\gitRepos\april16\Ejercicio2Repo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\david.crespopardo\source\gitRepos\april16\Ejercicio2Repo\bin\Debug\2.Negocio.pdb
+C:\Users\david.crespopardo\source\gitRepos\april16\Ejercicio2Repo\bin\Debug\3.Datos.pdb
+C:\Users\david.crespopardo\source\gitRepos\april16\Ejercicio2Repo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\david.crespopardo\source\gitRepos\april16\Ejercicio2Repo\obj\Debug\1.Presentacion.csproj.CopyComplete
