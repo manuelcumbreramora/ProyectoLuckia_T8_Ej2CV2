@@ -11,12 +11,13 @@ namespace _2.Negocio
         public float saldo { get; set; }
         public int idMonedero { get; set; }
         public string divisa { get; set; }
+        public int idUsuario { get; set; }
         public Monedero()
         {
 
         }
 
-        public bool ObtenerMonedero()
+        public bool CrearMonedero(int idUsuario, int saldo)
         {
             return true;
         }
