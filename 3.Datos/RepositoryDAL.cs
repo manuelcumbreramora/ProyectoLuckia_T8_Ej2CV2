@@ -31,5 +31,66 @@ namespace _3.Datos {
             currJson = File.ReadAllText(currPath);
             DDBBTransacciones = JsonConvert.DeserializeObject<List<DTOTransaccion>>(currJson);
         }
+
+        public static void ComprobarLogin(string login)
+        {
+            bool correcto=false;
+            foreach (var usuario in DDBBUsuarios)
+            {
+                if (usuario.login.Equals(login))
+                    correcto = true;
+            }
+            if (correcto)
+            {
+                Console.WriteLine("El usuario existe");
+            }
+            else
+            {
+                Console.WriteLine("El usuario no existe");
+            }
+
+            
+        }
+        public static void verificarLogin(string login, string pass)
+        {
+            bool correcto = false;
+            foreach (var usuario in DDBBUsuarios)
+            {
+                if (usuario.login.Equals(login) && usuario.pass.Equals(pass))
+                    correcto = true;
+            }
+            if (correcto)
+            {
+                Console.WriteLine("Datos de acceso correctos");
+            }
+            else
+            {
+                Console.WriteLine("El usuario/contraseña no son correctos");
+            }
+        }
+
+        public static void listarTransacciones()
+        {
+            foreach(var trans in DDBBTransacciones)
+            {
+                Console.WriteLine(string.Format("Id: {0}", trans.idTransaccion));
+                Console.WriteLine(string.Format("Tipo: {0}", trans.tipoTransaccion));
+                Console.WriteLine(string.Format("Importe: {0}", trans.importe));
+                Console.WriteLine(string.Format("Fecha: {0}", trans.fechaCreacion));
+            }
+        }
+
+        public static DTOMonedero recuperarMonedero(int idMonedero)
+        {
+            foreach (var monedero in DDBBMonederos)
+            {
+                if (monedero.idMonedero == idMonedero)
+                {
+                    return monedero;
+                }
+            }
+            return null;
+        }
+
     }
 }

@@ -8,6 +8,11 @@ namespace _2.Negocio
 {
     public class Usuario
     {
+        public Usuario()
+        {
+            this.idUsuario = 1;
+        }
+
         public string login { get; set; }
         public string pass { get; set; }
         public string estadoCuenta { get; set; }
@@ -15,10 +20,10 @@ namespace _2.Negocio
         public Monedero monederoUsuario { get; set; }
         public DateTime fechaCreacion { get; set; }
 
-        public bool CrearUsuario(string login,string pass)
+        public void CrearUsuario(string login,string pass)
         {
-            //Llamada a la BBDD
-            return false;
+            this.login = login;
+            this.pass = pass;
         }
     }
 }

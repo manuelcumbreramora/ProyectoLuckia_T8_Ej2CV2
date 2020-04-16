@@ -19,6 +19,8 @@ namespace _2.Negocio
 
         public bool CrearMonedero(int idUsuario, int saldo)
         {
+            this.idUsuario = idUsuario;
+            this.saldo = saldo;
             return true;
         }
         public int ComprobarSaldo()

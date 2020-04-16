@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\david.crespopardo\source\gitRepos\ProyectoLuckia_T8_Ej2CV2\3.Datos\bin\Debug\json\d_monedero.json
 C:\Users\david.crespopardo\source\gitRepos\ProyectoLuckia_T8_Ej2CV2\3.Datos\bin\Debug\json\d_trans.json
 C:\Users\david.crespopardo\source\gitRepos\ProyectoLuckia_T8_Ej2CV2\3.Datos\bin\Debug\json\d_usuario.json
@@ -9,3 +10,16 @@ C:\Users\david.crespopardo\source\gitRepos\ProyectoLuckia_T8_Ej2CV2\3.Datos\obj\
 C:\Users\david.crespopardo\source\gitRepos\ProyectoLuckia_T8_Ej2CV2\3.Datos\obj\Debug\3.Datos.csproj.CopyComplete
 C:\Users\david.crespopardo\source\gitRepos\ProyectoLuckia_T8_Ej2CV2\3.Datos\obj\Debug\3.Datos.dll
 C:\Users\david.crespopardo\source\gitRepos\ProyectoLuckia_T8_Ej2CV2\3.Datos\obj\Debug\3.Datos.pdb
+=======
+C:\Users\Alejandro\source\repos\ProyectoLuckia_T8_Ej2CV2\3.Datos\bin\Debug\json\d_monedero.json
+C:\Users\Alejandro\source\repos\ProyectoLuckia_T8_Ej2CV2\3.Datos\bin\Debug\json\d_trans.json
+C:\Users\Alejandro\source\repos\ProyectoLuckia_T8_Ej2CV2\3.Datos\bin\Debug\json\d_usuario.json
+C:\Users\Alejandro\source\repos\ProyectoLuckia_T8_Ej2CV2\3.Datos\bin\Debug\3.Datos.dll
+C:\Users\Alejandro\source\repos\ProyectoLuckia_T8_Ej2CV2\3.Datos\bin\Debug\3.Datos.pdb
+C:\Users\Alejandro\source\repos\ProyectoLuckia_T8_Ej2CV2\3.Datos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alejandro\source\repos\ProyectoLuckia_T8_Ej2CV2\3.Datos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alejandro\source\repos\ProyectoLuckia_T8_Ej2CV2\3.Datos\obj\Debug\3.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\ProyectoLuckia_T8_Ej2CV2\3.Datos\obj\Debug\3.Datos.csproj.CopyComplete
+C:\Users\Alejandro\source\repos\ProyectoLuckia_T8_Ej2CV2\3.Datos\obj\Debug\3.Datos.dll
+C:\Users\Alejandro\source\repos\ProyectoLuckia_T8_Ej2CV2\3.Datos\obj\Debug\3.Datos.pdb
+>>>>>>> developAlejandro

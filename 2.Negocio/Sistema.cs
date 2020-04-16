@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using _3.Datos;
 
 namespace _2.Negocio
 {
@@ -11,7 +12,6 @@ namespace _2.Negocio
         Usuario usuario = new Usuario();
         Monedero monedero = new Monedero();
         Transaccion transaccion;
-        //protected string nombreMiembro;
         //Registro del usuario
         public Usuario registroUsuario(string login, string pass)
         {
@@ -22,25 +22,14 @@ namespace _2.Negocio
             
         }
         //Verifica si existe el login y la pass del usuario que se pasa 
-        public Usuario verificarLogin(string login, string pass)
+        public void verificarLogin(string login, string pass)
         {
-            if (usuario.login == login && usuario.pass == pass)
-            {
-                Console.WriteLine("Usuario verificado con exito.");
-                return usuario;
-            } else
-            {
-                Console.WriteLine("El usuario no esta verificado.");
-                return null;
-            }
+            RepositoryDAL.verificarLogin(login, pass);
         }
         //Comprueba si el login existe en los registros
         public void existeLogin(string login)
         {
-            if (usuario.login == login)
-            {
-                Console.WriteLine("El usuario existe en nuestros registros");
-            }
+            RepositoryDAL.ComprobarLogin(login);
         }
         public void realizarTransaccion(int importe, int idMonedero, string tipoTransaccion)
         {
@@ -53,12 +42,25 @@ namespace _2.Negocio
         private void asignarMonederoAUsuario(Usuario usuario, Monedero monedero)
         {
             usuario.monederoUsuario = monedero;
-            //TODO: Metodo que enlaza el monedero seleccionado con su respectivo usuario
         }
         private void recuperarMonederoDeDB(int idMonedero)
         {
-            monedero.idMonedero = idMonedero;
-            //TODO: Metodo que busca la informacion en la DB
+            try
+            {
+                DTOMonedero dtMone = RepositoryDAL.recuperarMonedero(idMonedero);
+                monedero.idMonedero = dtMone.idMonedero;
+                monedero.idUsuario = dtMone.idUsuario;
+                monedero.saldo = dtMone.saldo;
+                monedero.divisa = dtMone.divisa;
+                
+            }catch(NullReferenceException ex)
+            {
+            }
+        }
+
+        public void historialTransacciones()
+        {
+            RepositoryDAL.listarTransacciones();
         }
     }
 }
