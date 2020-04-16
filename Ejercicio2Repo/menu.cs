@@ -47,7 +47,7 @@ namespace Ejercicio2Repo
 
                     case 3:
                         Console.WriteLine("Ha elegido consultar el histórico de transacciones");
-                        s.historicoTransacciones();
+                        s.historialTransacciones();
                         break;
 
                     case 4:
