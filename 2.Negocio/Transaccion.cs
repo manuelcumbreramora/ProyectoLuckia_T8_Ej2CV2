@@ -16,7 +16,10 @@ namespace _2.Negocio
             this.fechaCreacion = DateTime.Now;
             this.idTransaccion = 1; //Generar o get
         }
+        public Transaccion()
+        {
 
+        }
         public int idTransaccion { get; set; }
         public int importe { get; set; }
         public int idMonedero { get; set; }
