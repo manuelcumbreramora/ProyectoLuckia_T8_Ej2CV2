@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _2.Negocio
 {
-    class Sistema
+    public class Sistema
     {
         Usuario usuario = new Usuario();
         Monedero monedero = new Monedero();

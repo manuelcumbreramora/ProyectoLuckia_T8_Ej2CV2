@@ -4,3 +4,9 @@ C:\Users\roiben.gomeznion\source\repos\ProyectoLuckia_T8_Ej2CV2\2.Negocio\obj\De
 C:\Users\roiben.gomeznion\source\repos\ProyectoLuckia_T8_Ej2CV2\2.Negocio\obj\Debug\2.Negocio.csproj.CoreCompileInputs.cache
 C:\Users\roiben.gomeznion\source\repos\ProyectoLuckia_T8_Ej2CV2\2.Negocio\obj\Debug\2.Negocio.dll
 C:\Users\roiben.gomeznion\source\repos\ProyectoLuckia_T8_Ej2CV2\2.Negocio\obj\Debug\2.Negocio.pdb
+C:\Users\david.crespopardo\source\gitRepos\ProyectoLuckia_T8_Ej2CV2\2.Negocio\bin\Debug\2.Negocio.dll
+C:\Users\david.crespopardo\source\gitRepos\ProyectoLuckia_T8_Ej2CV2\2.Negocio\bin\Debug\2.Negocio.pdb
+C:\Users\david.crespopardo\source\gitRepos\ProyectoLuckia_T8_Ej2CV2\2.Negocio\obj\Debug\2.Negocio.csprojAssemblyReference.cache
+C:\Users\david.crespopardo\source\gitRepos\ProyectoLuckia_T8_Ej2CV2\2.Negocio\obj\Debug\2.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\david.crespopardo\source\gitRepos\ProyectoLuckia_T8_Ej2CV2\2.Negocio\obj\Debug\2.Negocio.dll
+C:\Users\david.crespopardo\source\gitRepos\ProyectoLuckia_T8_Ej2CV2\2.Negocio\obj\Debug\2.Negocio.pdb
