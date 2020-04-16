@@ -1,0 +1,23 @@
+[
+  {
+    "login": "Jose",
+    "pass": 123,
+    "estadoCuenta": "activa",
+    "id": 1,
+    "fechaCreacion": "7/20/2019"
+  },
+  {
+    "login": "Simon",
+    "pass": 456,
+    "estadoCuenta": "activa",
+    "id": 2,
+    "fechaCreacion": "7/20/2019"
+  },
+  {
+    "login": "Luisa",
+    "pass": 789,
+    "estadoCuenta": "activa",
+    "id": 3,
+    "fechaCreacion": "7/20/2019"
+  }
+]

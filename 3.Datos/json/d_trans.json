@@ -1,0 +1,23 @@
+[
+  {
+    "importe": 100,
+    "idMonedero": 1,
+    "tipoTransaccion": "carga",
+    "fechaCreacion": "7/20/2019",
+    "idTransaccion": 101
+  },
+  {
+    "importe": 50,
+    "idMonedero": 1,
+    "tipoTransaccion": "retirada",
+    "fechaCreacion": "7/20/2019",
+    "idTransaccion": 102
+  },
+  {
+    "importe": 100,
+    "idMonedero": 1,
+    "tipoTransaccion": "carga",
+    "fechaCreacion": "7/20/2019",
+    "idTransaccion": 103
+  }
+]
