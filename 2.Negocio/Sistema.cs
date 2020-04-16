@@ -33,6 +33,7 @@ namespace _2.Negocio
         }
         public void realizarTransaccion(int importe, int idMonedero, string tipoTransaccion)
         {
+            RepositoryDAL.CrearDDBB();
             recuperarMonederoDeDB(idMonedero);
             monedero.ComprobarSaldo();
             monedero.RestarSaldo(importe);

@@ -1,20 +1,11 @@
 C:\Users\roiben.gomeznion\source\repos\ProyectoLuckia_T8_Ej2CV2\2.Negocio\bin\Debug\2.Negocio.dll
 C:\Users\roiben.gomeznion\source\repos\ProyectoLuckia_T8_Ej2CV2\2.Negocio\bin\Debug\2.Negocio.pdb
+C:\Users\roiben.gomeznion\source\repos\ProyectoLuckia_T8_Ej2CV2\2.Negocio\bin\Debug\3.Datos.dll
+C:\Users\roiben.gomeznion\source\repos\ProyectoLuckia_T8_Ej2CV2\2.Negocio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\roiben.gomeznion\source\repos\ProyectoLuckia_T8_Ej2CV2\2.Negocio\bin\Debug\3.Datos.pdb
+C:\Users\roiben.gomeznion\source\repos\ProyectoLuckia_T8_Ej2CV2\2.Negocio\bin\Debug\Newtonsoft.Json.xml
 C:\Users\roiben.gomeznion\source\repos\ProyectoLuckia_T8_Ej2CV2\2.Negocio\obj\Debug\2.Negocio.csprojAssemblyReference.cache
 C:\Users\roiben.gomeznion\source\repos\ProyectoLuckia_T8_Ej2CV2\2.Negocio\obj\Debug\2.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\roiben.gomeznion\source\repos\ProyectoLuckia_T8_Ej2CV2\2.Negocio\obj\Debug\2.Negocio.csproj.CopyComplete
 C:\Users\roiben.gomeznion\source\repos\ProyectoLuckia_T8_Ej2CV2\2.Negocio\obj\Debug\2.Negocio.dll
 C:\Users\roiben.gomeznion\source\repos\ProyectoLuckia_T8_Ej2CV2\2.Negocio\obj\Debug\2.Negocio.pdb
-<<<<<<< HEAD
-C:\Users\david.crespopardo\source\gitRepos\ProyectoLuckia_T8_Ej2CV2\2.Negocio\bin\Debug\2.Negocio.dll
-C:\Users\david.crespopardo\source\gitRepos\ProyectoLuckia_T8_Ej2CV2\2.Negocio\bin\Debug\2.Negocio.pdb
-C:\Users\david.crespopardo\source\gitRepos\ProyectoLuckia_T8_Ej2CV2\2.Negocio\obj\Debug\2.Negocio.csprojAssemblyReference.cache
-C:\Users\david.crespopardo\source\gitRepos\ProyectoLuckia_T8_Ej2CV2\2.Negocio\obj\Debug\2.Negocio.csproj.CoreCompileInputs.cache
-C:\Users\david.crespopardo\source\gitRepos\ProyectoLuckia_T8_Ej2CV2\2.Negocio\obj\Debug\2.Negocio.dll
-C:\Users\david.crespopardo\source\gitRepos\ProyectoLuckia_T8_Ej2CV2\2.Negocio\obj\Debug\2.Negocio.pdb
-=======
-C:\Users\Alejandro\source\repos\ProyectoLuckia_T8_Ej2CV2\2.Negocio\bin\Debug\2.Negocio.dll
-C:\Users\Alejandro\source\repos\ProyectoLuckia_T8_Ej2CV2\2.Negocio\bin\Debug\2.Negocio.pdb
-C:\Users\Alejandro\source\repos\ProyectoLuckia_T8_Ej2CV2\2.Negocio\obj\Debug\2.Negocio.csproj.CoreCompileInputs.cache
-C:\Users\Alejandro\source\repos\ProyectoLuckia_T8_Ej2CV2\2.Negocio\obj\Debug\2.Negocio.dll
-C:\Users\Alejandro\source\repos\ProyectoLuckia_T8_Ej2CV2\2.Negocio\obj\Debug\2.Negocio.pdb
->>>>>>> developAlejandro

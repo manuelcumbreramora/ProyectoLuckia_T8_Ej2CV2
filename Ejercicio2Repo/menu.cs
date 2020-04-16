@@ -19,7 +19,8 @@ namespace Ejercicio2Repo
             Console.WriteLine("2: Realizar depósito");
             Console.WriteLine("3: Consultar histórico de transacciones de un jugador");
             Console.WriteLine("4: Salir");
-        
+            eleccionUsuario1 = Int32.Parse(Console.ReadLine());
+
         }
 
         public void ejecucion()
@@ -40,7 +41,7 @@ namespace Ejercicio2Repo
                     case 2:
                         Console.WriteLine("Ha elegido realizar depósito. Cuánto quiere ingresar?");
                         importe = Int32.Parse(Console.ReadLine());
-                        idMonedero = 1;
+                        idMonedero = 10;
                         tipoTransaccion = "retirada";
                         s.realizarTransaccion(importe, idMonedero, tipoTransaccion);
                         break;
