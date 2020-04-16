@@ -1,0 +1,14 @@
+C:\Users\jesus.changbuccheri\Documents\Formación Luckia\Ejercicios y Katas\Tema 8\ProyectoLuckia_T8_Ej2CV2\TestConsole\bin\Debug\json\d_user.json
+C:\Users\jesus.changbuccheri\Documents\Formación Luckia\Ejercicios y Katas\Tema 8\ProyectoLuckia_T8_Ej2CV2\TestConsole\bin\Debug\json\d_wallet.json
+C:\Users\jesus.changbuccheri\Documents\Formación Luckia\Ejercicios y Katas\Tema 8\ProyectoLuckia_T8_Ej2CV2\TestConsole\bin\Debug\TestConsole.exe.config
+C:\Users\jesus.changbuccheri\Documents\Formación Luckia\Ejercicios y Katas\Tema 8\ProyectoLuckia_T8_Ej2CV2\TestConsole\bin\Debug\TestConsole.exe
+C:\Users\jesus.changbuccheri\Documents\Formación Luckia\Ejercicios y Katas\Tema 8\ProyectoLuckia_T8_Ej2CV2\TestConsole\bin\Debug\TestConsole.pdb
+C:\Users\jesus.changbuccheri\Documents\Formación Luckia\Ejercicios y Katas\Tema 8\ProyectoLuckia_T8_Ej2CV2\TestConsole\bin\Debug\3.Datos.dll
+C:\Users\jesus.changbuccheri\Documents\Formación Luckia\Ejercicios y Katas\Tema 8\ProyectoLuckia_T8_Ej2CV2\TestConsole\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jesus.changbuccheri\Documents\Formación Luckia\Ejercicios y Katas\Tema 8\ProyectoLuckia_T8_Ej2CV2\TestConsole\bin\Debug\3.Datos.pdb
+C:\Users\jesus.changbuccheri\Documents\Formación Luckia\Ejercicios y Katas\Tema 8\ProyectoLuckia_T8_Ej2CV2\TestConsole\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jesus.changbuccheri\Documents\Formación Luckia\Ejercicios y Katas\Tema 8\ProyectoLuckia_T8_Ej2CV2\TestConsole\obj\Debug\TestConsole.csprojAssemblyReference.cache
+C:\Users\jesus.changbuccheri\Documents\Formación Luckia\Ejercicios y Katas\Tema 8\ProyectoLuckia_T8_Ej2CV2\TestConsole\obj\Debug\TestConsole.csproj.CoreCompileInputs.cache
+C:\Users\jesus.changbuccheri\Documents\Formación Luckia\Ejercicios y Katas\Tema 8\ProyectoLuckia_T8_Ej2CV2\TestConsole\obj\Debug\TestConsole.csproj.CopyComplete
+C:\Users\jesus.changbuccheri\Documents\Formación Luckia\Ejercicios y Katas\Tema 8\ProyectoLuckia_T8_Ej2CV2\TestConsole\obj\Debug\TestConsole.exe
+C:\Users\jesus.changbuccheri\Documents\Formación Luckia\Ejercicios y Katas\Tema 8\ProyectoLuckia_T8_Ej2CV2\TestConsole\obj\Debug\TestConsole.pdb

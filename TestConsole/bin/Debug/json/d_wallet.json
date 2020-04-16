@@ -1,0 +1,17 @@
+[
+  {
+    "idmonedero": 10,
+    "idusuario": 1,
+    "balance": 1000
+  },
+  {
+    "idmonedero": 20,
+    "idusuario": 2,
+    "balance": 2500
+  },
+  {
+    "idmonedero": 30,
+    "idusuario": 3,
+    "balance": 1300
+  }
+]
